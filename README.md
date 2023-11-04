@@ -35,3 +35,5 @@ Here are some ideas to get you started:
 * [Drum Machine](https://drum-machine.gaomingyang.cn)
 * [Calculator](https://calculator.gaomingyang.cn)
 * [Pomodoro Timer](https://pomodoro-timer.gaomingyang.cn)
+* [URL Shortener](https://urlshortener.gaomingyangcn.repl.co)
+* [Exercise Tracker](https://exercisetracker.gaomingyangcn.repl.co)
