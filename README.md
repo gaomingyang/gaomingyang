@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-### My Side Projects
+### Personal Side Projects
 - [My Blog](https://blog.gaomingyang.cn)
 - 万能识图-微信小程序
 
