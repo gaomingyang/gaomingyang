@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### About me
-Seasoned software engineer with over 10 years in web development, excel in architectural design and have experience taking projects from the ground up and optimizing them to support millions of users.
+Seasoned software engineer with over 10 years in web development, excel in system architectural design and have experience taking projects from the ground up and optimizing them to support millions of users.
 
 <!--
 **gaomingyang/gaomingyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
