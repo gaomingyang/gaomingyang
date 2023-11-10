@@ -21,12 +21,13 @@ Here are some ideas to get you started:
 -->
 
 
-
+<!--
 ### Personal Side Projects
 - [My Blog](https://blog.gaomingyang.cn)
 - 万能识图-微信小程序
 
-<!-- My Resume email me for access code -->
+ My Resume email me for access code 
+ -->
 
 ### My Toy Projects
 * [Todo List](https://todo.gaomingyang.cn)
