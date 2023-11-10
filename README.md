@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-About me
-[https://www.gaomingyang.cn](https://www.gaomingyang.cn)
-
-10+ years of experience developing backend systems with Golang and PHP.
+### About me
+Seasoned software engineer with over 10 years in web development, excel in architectural design and have experience taking projects from the ground up and optimizing them to support millions of users.
 
 <!--
 **gaomingyang/gaomingyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +20,7 @@ Here are some ideas to get you started:
 
 
 <!--
+10+ years of experience developing backend systems with Golang and PHP.
 ### Personal Side Projects
 - [My Blog](https://blog.gaomingyang.cn)
 - 万能识图-微信小程序
