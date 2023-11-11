@@ -4,6 +4,9 @@
 Seasoned software engineer with over 10 years in web development, excel in system architectural design and have experience taking projects from the ground up and optimizing them to support millions of users.
 
 <!--
+这里比个人网站更适合作为技术方面的个人主页，利用github的影响权威性，精心设计这个页面。
+-->
+
 **gaomingyang/gaomingyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -27,6 +30,8 @@ Here are some ideas to get you started:
 
  My Resume email me for access code 
  -->
+
+<!-- 调研这个是否可以折叠，还可以放一些没有开源的个人作品上来。 -->
 
 ### My Toy Projects
 
