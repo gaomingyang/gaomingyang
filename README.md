@@ -29,17 +29,7 @@ Here are some ideas to get you started:
  -->
 
 ### My Toy Projects
-* [Todo List](https://todo.gaomingyang.cn)
-* [Random Quote](https://random-quote.gaomingyang.cn)
-* [Markdown Previewer](https://markdown.gaomingyang.cn)
-* [Drum Machine](https://drum-machine.gaomingyang.cn)
-* [Calculator](https://calculator.gaomingyang.cn)
-* [Pomodoro Timer](https://pomodoro-timer.gaomingyang.cn)
-* [URL Shortener](https://urlshortener.gaomingyangcn.repl.co)
-* [Exercise Tracker](https://exercisetracker.gaomingyangcn.repl.co)
-* [Top Movies-Frontend Page](http://top-movies.gaomingyang.cn)
 
-<!--
 | Project Online URL | Code Repository | Description | Technologies Used |
 |----------|----------|----------|----------|
 | [Todo List](https://todo.gaomingyang.cn)  | [todo-list-react](https://github.com/gaomingyang/todo-list-react) | A Todo List application  | React, JSX, CSS   |
@@ -47,7 +37,11 @@ Here are some ideas to get you started:
 | [Markdown Previewer](https://markdown.gaomingyang.cn)  | [markdown-previewer](https://github.com/gaomingyang/markdown-previewer) | A web markdown previewer  | React, Marked   |
 | [Drum Machine](https://drum-machine.gaomingyang.cn)  | [drum-machine](https://github.com/gaomingyang/drum-machine) | A Drum Machine  | React   |
 | [Calculator](https://calculator.gaomingyang.cn)  | [calculator-react](https://github.com/gaomingyang/calculator-react) | A web Caculator  | React, Google Fonts   |
+| [Pomodoro Timer](https://pomodoro-timer.gaomingyang.cn)  | [pomodoro-timer](https://github.com/gaomingyang/pomodoro-timer) | A Pomodoro Timer  | React  |
+| [URL Shortener](https://urlshortener.gaomingyangcn.repl.co)  | [urlshortener](https://github.com/gaomingyang/fcc-backend/tree/main/urlshortener-microservice) | A microservice to shorten url  | express.js, MongoDB, mongoose, dotenv, cors, body-parser  |
+| [Exercise Tracker](https://exercisetracker.gaomingyangcn.repl.co)  | [exercisetracker](https://github.com/gaomingyang/fcc-backend/tree/main/exercisetracker) | A tool to help tracking exercise logs  | express.js, MongoDB, mongoose, dotenv, cors, body-parser  |
+| [Top Movies](http://top-movies.gaomingyang.cn)  | [top-movies](https://github.com/gaomingyang/top-movies) | A webpage that displays recommended top movies  | HTML5, CSS, JavaScript, Tailwind CSS  |
 
 
-
+<!--
 -->
