@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 * [Pomodoro Timer](https://pomodoro-timer.gaomingyang.cn)
 * [URL Shortener](https://urlshortener.gaomingyangcn.repl.co)
 * [Exercise Tracker](https://exercisetracker.gaomingyangcn.repl.co)
-* [Top Movies-Frontend Page](https://top-movies.gaomingyangcn.repl.co)
+* [Top Movies-Frontend Page](https://gaomingyang.github.io/top-movies)
