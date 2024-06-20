@@ -32,7 +32,7 @@ Here are some ideas to get you started:
  My Resume email me for access code 
  -->
 
-<!-- 调研这个是否可以折叠，还可以放一些没有开源的个人作品上来。 -->
+<!-- 调研这个是否可以折叠，还可以放一些没有开源的个人作品上来。 
 
 ### My Toy Projects
 
@@ -48,6 +48,6 @@ Here are some ideas to get you started:
 | [Exercise Tracker](https://exercisetracker.gaomingyangcn.repl.co)  | [exercisetracker](https://github.com/gaomingyang/fcc-backend/tree/main/exercisetracker) | A tool to help tracking exercise logs  | express.js, MongoDB, mongoose, dotenv, cors, body-parser  |
 | [Top Movies](http://top-movies.gaomingyang.cn)  | [top-movies](https://github.com/gaomingyang/top-movies) | A webpage that displays recommended top movies  | HTML5, CSS, JavaScript, Tailwind CSS  |
 
-
+-->
 <!--
 -->
