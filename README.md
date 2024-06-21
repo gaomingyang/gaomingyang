@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-### About me
-Seasoned software engineer with over 10 years in web development, excel in system architectural design and have experience taking projects from the ground up and optimizing them to support millions of users.
+<!-- ### About me -->
+I'm a senior software engineer with 14 years in web development, excel in system architectural design and have experience taking projects from the ground up and optimizing them to support millions of users.
 
 <!--
 这里比个人网站更适合作为技术方面的个人主页，利用github的影响权威性，精心设计这个页面。
