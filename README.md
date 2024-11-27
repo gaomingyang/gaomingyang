@@ -3,6 +3,10 @@
 <!-- ### About me -->
 I'm a senior software engineer with 14 years in web development, excel in system architectural design and have experience taking projects from the ground up and optimizing them to support millions of users.
 
+Here are some of my side Projects:
+* [GeekTool](https://geektool.org)
+* [Random Quote](https://random-quote.gaomingyang.cn) 
+
 <!--
 这里比个人网站更适合作为技术方面的个人主页，利用github的影响权威性，精心设计这个页面。
 -->
@@ -48,6 +52,4 @@ Here are some ideas to get you started:
 | [Exercise Tracker](https://exercisetracker.gaomingyangcn.repl.co)  | [exercisetracker](https://github.com/gaomingyang/fcc-backend/tree/main/exercisetracker) | A tool to help tracking exercise logs  | express.js, MongoDB, mongoose, dotenv, cors, body-parser  |
 | [Top Movies](http://top-movies.gaomingyang.cn)  | [top-movies](https://github.com/gaomingyang/top-movies) | A webpage that displays recommended top movies  | HTML5, CSS, JavaScript, Tailwind CSS  |
 
--->
-<!--
 -->
