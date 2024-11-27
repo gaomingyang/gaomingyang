@@ -5,7 +5,8 @@ I'm a senior software engineer with 14 years in web development, excel in system
 
 Here are some of my side Projects:
 * [GeekTool](https://geektool.org)
-* [Random Quote](https://random-quote.gaomingyang.cn) 
+* [Random Quote](https://random-quote.gaomingyang.cn)
+* [Todo List](https://todo.gaomingyang.cn)
 
 <!--
 这里比个人网站更适合作为技术方面的个人主页，利用github的影响权威性，精心设计这个页面。
